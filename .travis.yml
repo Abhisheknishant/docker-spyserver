@@ -1,4 +1,6 @@
-arch: arm64
+arch: 
+    - amd64
+    - arm64
 language: c
 compiler: gcc
 services:
